@@ -11,4 +11,9 @@ I’m currently learning
 -->
 todya
 2023 one day
+  today
+  2023111
+  tricke andbrick
+  test
+  goimrendme.md
   
