@@ -23,3 +23,11 @@ readm
 maybe 
 -runa 
 /control
+haoduotianmeigengxin
+zenmeban
+meibanf
+xiwang
+yudikongi
+beiyexuba
+meiyouzenmeban 
+nabushiyaoqisi
